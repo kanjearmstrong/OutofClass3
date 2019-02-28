@@ -1,0 +1,10 @@
+C:\Users\cst117\source\repos\OutofClassAssignment3\OutofClassAssignment3\obj\Debug\OutofClassAssignment3.Form1.resources
+C:\Users\cst117\source\repos\OutofClassAssignment3\OutofClassAssignment3\obj\Debug\OutofClassAssignment3.Properties.Resources.resources
+C:\Users\cst117\source\repos\OutofClassAssignment3\OutofClassAssignment3\obj\Debug\OutofClassAssignment3.csproj.GenerateResource.cache
+C:\Users\cst117\source\repos\OutofClassAssignment3\OutofClassAssignment3\obj\Debug\OutofClassAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\cst117\source\repos\OutofClassAssignment3\OutofClassAssignment3\bin\Debug\OutofClassAssignment3.exe.config
+C:\Users\cst117\source\repos\OutofClassAssignment3\OutofClassAssignment3\bin\Debug\OutofClassAssignment3.exe
+C:\Users\cst117\source\repos\OutofClassAssignment3\OutofClassAssignment3\bin\Debug\OutofClassAssignment3.pdb
+C:\Users\cst117\source\repos\OutofClassAssignment3\OutofClassAssignment3\obj\Debug\OutofClassAssignment3.csprojAssemblyReference.cache
+C:\Users\cst117\source\repos\OutofClassAssignment3\OutofClassAssignment3\obj\Debug\OutofClassAssignment3.exe
+C:\Users\cst117\source\repos\OutofClassAssignment3\OutofClassAssignment3\obj\Debug\OutofClassAssignment3.pdb
